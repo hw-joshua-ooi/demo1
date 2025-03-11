@@ -1,3 +1,0 @@
-testing 123
-Sync push with 456
-cloned and push from intellij
